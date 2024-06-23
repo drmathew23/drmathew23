@@ -2,7 +2,7 @@
 ## ⭐ Featured Projects:
 ## 👨‍💻 Information Technology Projects:
 + Jira Service Management <br>
-  - [Jira Service Management: Ticket Lifecycle and Resolition](projects)
+  - [Jira Service Management: Ticket Lifecycle and Resolution](projects)
  
 + Active Directory
 ## ☁ Cloud Computing Projects:
