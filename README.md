@@ -8,7 +8,7 @@
 + Active Directory
   - [Active Directory: Deployment and Automation](https://github.com/drmathew23/Active-Directory)
 ## 🔒 Cybersecurity Projects
-  - [Vulnerability Management: Nessus Vulnerability Scanner](vulnerability-management-lab)
+  - [Vulnerability Management: Nessus Vulnerability Scanner](https://github.com/drmathew23/vulnerability-management-lab)
 
 ## 🤳Connect with me:
 
