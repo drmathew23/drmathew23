@@ -6,7 +6,7 @@
 + Jira Service Management <br>
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/drmathew23/Jira-Automation)
 + Active Directory
-  -{Active Directory: Deployment and Automation]()
+  -{Active Directory: Deployment and Automation](Active-Directory/README.md)
 
 ## 🤳Connect with me:
 
