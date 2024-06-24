@@ -8,7 +8,8 @@
 + Active Directory
 
 + Network Design <br>
-  - [Neo Jupiter Case Study](Daniel-Mathew-Portfolio/projects/Project-1/Network-Design-Deliverable.pdf)
+  - [Neo Jupiter Case Study](Daniel-Mathew-Portfolio/projects/Project-1/Network-Design-Deliverable.pdf
+)
 ## 🤳Connect with me:
 
 
