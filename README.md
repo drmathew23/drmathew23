@@ -7,8 +7,8 @@
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/drmathew23/Jira-Automation)
 + Active Directory
   - [Active Directory: Deployment and Automation](https://github.com/drmathew23/Active-Directory)
-# Cybersecurity Projects
-  - [Vulnerability Management](vulnerability-management-lab)
+## 🔒 Cybersecurity Projects
+  - [Vulnerability Management: Nessus Vulnerability Scanner](vulnerability-management-lab)
 
 ## 🤳Connect with me:
 
