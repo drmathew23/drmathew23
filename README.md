@@ -2,7 +2,7 @@
 ## ⭐ Featured Projects:
 ## 👨‍💻 Software Development Projects
 + Automation
-  -File Management: Python Automation
+  - File Management: Python Automation
 + Rest API
   
  
